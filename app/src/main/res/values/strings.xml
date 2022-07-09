@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocialMe</string>
+    <string name="creatpost_hint">Write Something!</string>
+</resources>
